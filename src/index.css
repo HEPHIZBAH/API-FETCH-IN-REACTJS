@@ -11,3 +11,24 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.cat {
+  background-color: aquamarine;
+  color: black;
+  border-radius: 50px;
+  border: 3px solid red;
+}
+
+.predict {
+  background-color: skyblue;
+  color: black;
+  border-radius: 50px;
+  border: 3px solid blue;
+}
+
+.excuse {
+  background-color: royalblue;
+  color: black;
+  border-radius: 50px;
+  border: 3px solid orange;
+}
